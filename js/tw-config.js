@@ -19,7 +19,6 @@ tailwind.config = {
               },
         },
         fontFamily: {
-            roboto:['Roboto', 'sans-serif'],
             lora:['Lora', 'serif'],
         },
         fontSize:{
