@@ -3,4 +3,7 @@
     .custom-shadow{
         box-shadow: 0px 0px 35px 1px rgba(121, 121, 121, 0.2);
     }
+    .custom-shadow-1{
+        box-shadow: 0px 15px 35px 0px rgba(121, 121, 121, 0.2);
+    }
 }
